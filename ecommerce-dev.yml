@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86500000
+  secret: "Q4NSl604sgyHJj1qwEkR3ycUeR4uUAt7WJraDdfsgf7EN3O9DVM4yydfbfcxvbdhgfjhgfynfdzbdgxhfmjhfjfdSLLTOKENDEV"
+
+gateway:
+  ip: 192.168.133.141
